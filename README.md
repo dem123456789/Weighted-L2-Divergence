@@ -26,7 +26,7 @@ about the underlying distributions. Rigorous theoretical analysis is provided th
 
 ## Source
 
-*Detecting Local Closeness with Weighted L 2 2 Divergence*,  
+*Detecting Local Closeness with Weighted L2 Divergence*,  
 Deng Z, Ding J, Diao E, et al.  
 
 ## Credits
